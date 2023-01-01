@@ -31,18 +31,12 @@ export default function LinePlot({ data, currName }) {
                     title: {
                         text: "Year"
                     },
-                    line: {
-                        lineWidth: 1
-                    },
                     grid: null
                 }}
                 yAxis={{
                     title: {
                         text: 'Babies'
                     },
-                    line: {
-                        lineWidth: 1
-                    }
                 }}
                 theme={colorMode === 'DARK' ? darkTheme : lightTheme}
             />

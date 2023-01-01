@@ -1,0 +1,389 @@
+Info 0    [21:04:10.627] Starting TS Server
+Info 1    [21:04:10.628] Version: 4.6.2
+Info 2    [21:04:10.628] Arguments: /usr/bin/node /home/nicholas/programs/roberta-names-gender/node_modules/.bin/tsserver --logFile /home/nicholas/programs/roberta-names-gender/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/63612681b33e0e5784fec94643a45a6f/tscancellation*
+Info 3    [21:04:10.628] Platform: linux NodeVersion: 19 CaseSensitive: true
+Info 4    [21:04:10.628] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [21:04:10.646] Format host information updated
+Info 6    [21:04:10.652] Search path: /home/nicholas/programs/roberta-names-gender/src/pages
+Info 7    [21:04:10.654] For info: /home/nicholas/programs/roberta-names-gender/src/pages/index.tsx :: Config file name: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 8    [21:04:10.654] Creating configuration project /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 9    [21:04:10.683] Config: /home/nicholas/programs/roberta-names-gender/tsconfig.json : {
+ "rootNames": [
+  "/home/nicholas/programs/roberta-names-gender/src/components/line.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/components/scatter.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/components/table.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/components/theme.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/components/chrome/index.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/components/chrome/theme_switcher.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/components/next_eui/button.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/doc_panel.styles.ts",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/doc_panel.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/getting_started_steps.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/gradient_bg.styles.ts",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/gradient_bg.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/header.styles.ts",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/header.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/home_hero.styles.ts",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/home_hero.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/home_illustration.styles.ts",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/home_illustration.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/home_templates.styles.ts",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/home_templates.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/home_why.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/theme_switcher.styles.ts",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/theme_switcher.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/wrapper.styles.ts",
+  "/home/nicholas/programs/roberta-names-gender/src/components/starter/wrapper.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/custom_typings/index.d.ts",
+  "/home/nicholas/programs/roberta-names-gender/src/layouts/docs.styles.ts",
+  "/home/nicholas/programs/roberta-names-gender/src/layouts/docs.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/layouts/kibana.styles.ts",
+  "/home/nicholas/programs/roberta-names-gender/src/layouts/kibana.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/layouts/kibana_collapsible_nav.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/lib/loader.ts",
+  "/home/nicholas/programs/roberta-names-gender/src/lib/theme.ts",
+  "/home/nicholas/programs/roberta-names-gender/src/pages/404.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/pages/_app.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/pages/_document.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/pages/_error.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/pages/getting-started.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/pages/index.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/pages/docs/index.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/pages/docs/page-2.tsx",
+  "/home/nicholas/programs/roberta-names-gender/src/pages/kibana/dashboards.js",
+  "/home/nicholas/programs/roberta-names-gender/src/pages/kibana/discover.js",
+  "/home/nicholas/programs/roberta-names-gender/src/pages/kibana/index.js",
+  "/home/nicholas/programs/roberta-names-gender/src/pages/kibana/maps.js",
+  "/home/nicholas/programs/roberta-names-gender/src/styles/getting-started.styles.ts",
+  "/home/nicholas/programs/roberta-names-gender/src/styles/global.styles.ts"
+ ],
+ "options": {
+  "plugins": [
+   {
+    "name": "typescript-plugin-css-modules"
+   }
+  ],
+  "target": 1,
+  "lib": [
+   "lib.dom.d.ts",
+   "lib.dom.iterable.d.ts",
+   "lib.esnext.d.ts"
+  ],
+  "allowJs": true,
+  "skipLibCheck": true,
+  "strict": false,
+  "forceConsistentCasingInFileNames": true,
+  "noEmit": true,
+  "esModuleInterop": true,
+  "module": 99,
+  "moduleResolution": 2,
+  "resolveJsonModule": true,
+  "isolatedModules": true,
+  "jsx": 1,
+  "jsxImportSource": "@emotion/react",
+  "incremental": true,
+  "configFilePath": "/home/nicholas/programs/roberta-names-gender/tsconfig.json"
+ }
+}
+Info 10   [21:04:10.687] Enabling plugin typescript-plugin-css-modules from candidate paths: /home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js/../../..
+Info 11   [21:04:10.688] Loading typescript-plugin-css-modules from /home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js/../../.. (resolved to /home/nicholas/programs/roberta-names-gender/node_modules/node_modules)
+Info 12   [21:04:11.307] [typescript-plugin-css-modules] options: {}
+Info 13   [21:04:11.309] Plugin validation succeeded
+Info 14   [21:04:11.335] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 15   [21:04:14.414] Skipped loading contents of large file /home/nicholas/programs/roberta-names-gender/public/years.json for info /home/nicholas/programs/roberta-names-gender/public/years.json: fileSize: 37229633
+Info 16   [21:04:15.502] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 4167.101675999991ms
+Info 17   [21:04:15.502] Project '/home/nicholas/programs/roberta-names-gender/tsconfig.json' (Configured)
+Info 18   [21:04:15.503] 	Files (851)
+
+Info 19   [21:04:15.503] -----------------------------------------------
+Info 20   [21:04:15.533] AutoImportProviderProject: found 4 root files in 4 dependencies in 19.394633000018075 ms
+Info 21   [21:04:15.534] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 22   [21:04:17.813] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 2279.3658749999886ms
+Info 23   [21:04:17.813] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 24   [21:04:17.813] 	Files (2153)
+
+Info 25   [21:04:17.813] -----------------------------------------------
+Info 26   [21:04:23.834] Search path: /home/nicholas/programs/roberta-names-gender/src/lib
+Info 27   [21:04:23.834] For info: /home/nicholas/programs/roberta-names-gender/src/lib/theme.ts :: Config file name: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 28   [21:05:12.668] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 29   [21:05:12.887] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 2 structureChanged: true structureIsReused:: SafeModules Elapsed: 218.62169699999504ms
+Info 30   [21:05:12.887] Different program with same set of files
+Info 31   [21:05:13.281] Format host information updated
+Info 32   [21:05:35.633] Search path: /home/nicholas/programs/roberta-names-gender/src/components
+Info 33   [21:05:35.633] For info: /home/nicholas/programs/roberta-names-gender/src/components/scatter.tsx :: Config file name: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 34   [21:06:08.201] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 35   [21:06:08.403] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 3 structureChanged: true structureIsReused:: SafeModules Elapsed: 202.54228199998033ms
+Info 36   [21:06:08.403] Different program with same set of files
+Info 37   [21:06:08.950] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 38   [21:06:08.976] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 4 structureChanged: false structureIsReused:: Completely Elapsed: 26.82067200000165ms
+Info 39   [21:06:08.976] Different program with same set of files
+Info 40   [21:06:09.622] Format host information updated
+Info 41   [21:06:34.256] Search path: /home/nicholas/programs/roberta-names-gender/src/components
+Info 42   [21:06:34.257] For info: /home/nicholas/programs/roberta-names-gender/src/components/line.tsx :: Config file name: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 43   [21:06:37.629] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 44   [21:06:37.858] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 5 structureChanged: true structureIsReused:: SafeModules Elapsed: 228.26767299999483ms
+Info 45   [21:06:37.858] Different program with same set of files
+Info 46   [21:06:38.213] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 47   [21:06:38.221] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 6 structureChanged: false structureIsReused:: Completely Elapsed: 7.738104999996722ms
+Info 48   [21:06:38.221] Different program with same set of files
+Info 49   [21:06:38.750] Format host information updated
+Err 50    [21:08:09.121] Exception on executing command {"command":"getCodeFixes","seq":241,"type":"request","arguments":{"file":"/home/nicholas/programs/roberta-names-gender/src/pages/index.tsx","startLine":41,"startOffset":1,"endLine":41,"endOffset":1,"errorCodes":[7044]}}:
+
+    BADCLIENT: Bad error code, 7044 not found in range 1511..1511 (found: false, false, false, false, false, false, false, false, false, false, false, false); could have caused this error:
+    Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isParameter'.
+
+    Error: BADCLIENT: Bad error code, 7044 not found in range 1511..1511 (found: false, false, false, false, false, false, false, false, false, false, false, false); could have caused this error:
+    Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isParameter'.
+        at Object.cast (/home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:1500:25)
+        at doChange (/home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:153326:40)
+        at /home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:153221:35
+        at ChangeTracker.with (/home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:145694:17)
+        at Object.getCodeActions (/home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:153220:64)
+        at /home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:146939:77
+        at Object.flatMap (/home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:508:25)
+        at Object.getFixes (/home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:146939:23)
+        at /home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:162166:35
+        at Object.flatMap (/home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:508:25)
+        at Object.getCodeFixesAtPosition (/home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:162164:23)
+        at Session.getCodeFixes (/home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:173731:64)
+        at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:172364:61)
+        at /home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:174044:88
+        at Session.executeWithRequestId (/home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:174035:28)
+        at Session.executeCommand (/home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:174044:33)
+        at Session.onMessage (/home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:174070:35)
+        at Interface.<anonymous> (/home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/tsserver.js:176675:31)
+        at Interface.emit (node:events:513:28)
+        at [_onLine] [as _onLine] (node:internal/readline/interface:426:12)
+        at [_normalWrite] [as _normalWrite] (node:internal/readline/interface:615:59)
+        at Socket.ondata (node:internal/readline/interface:253:23)
+        at Socket.emit (node:events:513:28)
+        at addChunk (node:internal/streams/readable:324:12)
+        at readableAddChunk (node:internal/streams/readable:297:9)
+        at Readable.push (node:internal/streams/readable:234:10)
+        at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)
+Info 51   [21:10:42.868] Search path: /home/nicholas/programs/roberta-names-gender/src/pages
+Info 52   [21:10:42.868] For info: /home/nicholas/programs/roberta-names-gender/src/pages/_document.tsx :: Config file name: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 53   [21:11:07.069] Search path: /home/nicholas/programs/roberta-names-gender/src/pages
+Info 54   [21:11:07.069] For info: /home/nicholas/programs/roberta-names-gender/src/pages/_app.tsx :: Config file name: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 55   [21:11:24.889] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 56   [21:11:24.924] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 7 structureChanged: false structureIsReused:: Completely Elapsed: 34.50246599991806ms
+Info 57   [21:11:24.924] Different program with same set of files
+Info 58   [21:11:25.222] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 59   [21:11:25.269] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 8 structureChanged: false structureIsReused:: Completely Elapsed: 46.723305999999866ms
+Info 60   [21:11:25.269] Different program with same set of files
+Info 61   [21:11:25.670] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 62   [21:11:25.680] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 9 structureChanged: false structureIsReused:: Completely Elapsed: 9.193085000035353ms
+Info 63   [21:11:25.680] Different program with same set of files
+Info 64   [21:11:25.682] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 65   [21:11:25.689] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 10 structureChanged: false structureIsReused:: Completely Elapsed: 7.6249799999641255ms
+Info 66   [21:11:25.689] Different program with same set of files
+Info 67   [21:11:25.940] getCompletionData: Get current token: 0.014872999978251755
+Info 68   [21:11:25.940] getCompletionData: Is inside comment: 0.1398920000065118
+Info 69   [21:11:25.940] getCompletionData: Get previous token: 0.047663999954238534
+Info 70   [21:11:25.940] getCompletionsAtPosition: isCompletionListBlocker: 0.3017420000396669
+Info 71   [21:11:25.941] getCompletionData: Semantic work: 0.45230999996419996
+Info 72   [21:11:25.942] getCompletionData: Get current token: 0.00799899990670383
+Info 73   [21:11:25.942] getCompletionData: Is inside comment: 0.019827999989502132
+Info 74   [21:11:25.943] getCompletionData: Get previous token: 0.03493500000331551
+Info 75   [21:11:25.943] getCompletionsAtPosition: isCompletionListBlocker: 0.003320000017993152
+Info 76   [21:11:25.943] getCompletionData: Semantic work: 0.016165999928489327
+Info 77   [21:11:25.943] getCompletionData: Get current token: 0.008941999985836446
+Info 78   [21:11:25.943] getCompletionData: Is inside comment: 0.01994999998714775
+Info 79   [21:11:25.943] getCompletionData: Get previous token: 0.031651000026613474
+Info 80   [21:11:25.943] getCompletionsAtPosition: isCompletionListBlocker: 0.002702999976463616
+Info 81   [21:11:25.943] getCompletionData: Semantic work: 0.013468999997712672
+Info 82   [21:11:25.943] getCompletionData: Get current token: 0.007798000006005168
+Info 83   [21:11:25.943] getCompletionData: Is inside comment: 0.017985000042244792
+Info 84   [21:11:25.944] getCompletionData: Get previous token: 0.15278300002682954
+Info 85   [21:11:25.944] getCompletionsAtPosition: isCompletionListBlocker: 0.0027439999394118786
+Info 86   [21:11:25.944] getCompletionData: Semantic work: 0.01273900002706796
+Info 87   [21:11:25.944] getCompletionData: Get current token: 0.007636000053025782
+Info 88   [21:11:25.944] getCompletionData: Is inside comment: 0.023965999949723482
+Info 89   [21:11:25.944] getCompletionData: Get previous token: 0.031518999952822924
+Info 90   [21:11:25.944] getCompletionsAtPosition: isCompletionListBlocker: 0.0038469999562948942
+Info 91   [21:11:25.944] getCompletionData: Semantic work: 0.012010999955236912
+Info 92   [21:11:26.347] Format host information updated
+Info 93   [21:11:51.719] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 94   [21:11:51.734] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 11 structureChanged: false structureIsReused:: Completely Elapsed: 15.149227000074461ms
+Info 95   [21:11:51.734] Different program with same set of files
+Info 96   [21:11:52.237] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 97   [21:11:52.250] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 12 structureChanged: false structureIsReused:: Completely Elapsed: 12.61004800000228ms
+Info 98   [21:11:52.250] Different program with same set of files
+Info 99   [21:11:52.250] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 100  [21:11:52.263] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 13 structureChanged: false structureIsReused:: Completely Elapsed: 12.431261999998242ms
+Info 101  [21:11:52.263] Different program with same set of files
+Info 102  [21:11:52.263] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 103  [21:11:52.274] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 14 structureChanged: false structureIsReused:: Completely Elapsed: 10.634960999945179ms
+Info 104  [21:11:52.274] Different program with same set of files
+Info 105  [21:11:52.531] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 106  [21:11:52.541] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 15 structureChanged: false structureIsReused:: Completely Elapsed: 9.36140300007537ms
+Info 107  [21:11:52.541] Different program with same set of files
+Info 108  [21:11:52.558] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 109  [21:11:52.567] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 16 structureChanged: false structureIsReused:: Completely Elapsed: 8.802379000000656ms
+Info 110  [21:11:52.567] Different program with same set of files
+Info 111  [21:11:53.040] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 112  [21:11:53.048] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 17 structureChanged: false structureIsReused:: Completely Elapsed: 7.896960000041872ms
+Info 113  [21:11:53.048] Different program with same set of files
+Info 114  [21:11:53.297] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 115  [21:11:53.306] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 18 structureChanged: false structureIsReused:: Completely Elapsed: 9.120863999938592ms
+Info 116  [21:11:53.306] Different program with same set of files
+Info 117  [21:11:53.416] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 118  [21:11:53.426] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 19 structureChanged: false structureIsReused:: Completely Elapsed: 9.901432999991812ms
+Info 119  [21:11:53.427] Different program with same set of files
+Info 120  [21:11:53.904] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 121  [21:11:53.920] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 20 structureChanged: false structureIsReused:: Completely Elapsed: 15.159802000038326ms
+Info 122  [21:11:53.920] Different program with same set of files
+Info 123  [21:11:53.920] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 124  [21:11:53.941] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 21 structureChanged: false structureIsReused:: Completely Elapsed: 20.37632899999153ms
+Info 125  [21:11:53.941] Different program with same set of files
+Info 126  [21:11:54.255] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 127  [21:11:54.263] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 22 structureChanged: false structureIsReused:: Completely Elapsed: 7.9654800000134856ms
+Info 128  [21:11:54.263] Different program with same set of files
+Info 129  [21:11:54.263] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 130  [21:11:54.270] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 23 structureChanged: false structureIsReused:: Completely Elapsed: 7.203651000047103ms
+Info 131  [21:11:54.270] Different program with same set of files
+Info 132  [21:11:54.271] getCompletionData: Get current token: 0.013082000077702105
+Info 133  [21:11:54.271] getCompletionData: Is inside comment: 0.007197999977506697
+Info 134  [21:11:54.271] getCompletionData: Get previous token: 0.027987999957986176
+Info 135  [21:11:54.271] getCompletionsAtPosition: isCompletionListBlocker: 0.11065300006885082
+Info 136  [21:11:54.271] Returning an empty list because completion was requested in an invalid position.
+Info 137  [21:11:54.503] getCompletionData: Get current token: 0.01656099990941584
+Info 138  [21:11:54.503] getCompletionData: Is inside comment: 0.0038120000390335917
+Info 139  [21:11:54.504] getCompletionData: Get previous token: 0.03440400003455579
+Info 140  [21:11:54.504] getCompletionsAtPosition: isCompletionListBlocker: 0.009260999970138073
+Info 141  [21:11:54.504] Returning an empty list because completion was requested in an invalid position.
+Info 142  [21:11:54.504] getCompletionData: Get current token: 0.015054999967105687
+Info 143  [21:11:54.504] getCompletionData: Is inside comment: 0.0033970000222325325
+Info 144  [21:11:54.504] getCompletionData: Get previous token: 0.030731000006198883
+Info 145  [21:11:54.504] getCompletionsAtPosition: isCompletionListBlocker: 0.006943000014871359
+Info 146  [21:11:54.504] Returning an empty list because completion was requested in an invalid position.
+Info 147  [21:11:54.504] getCompletionData: Get current token: 0.013892000075429678
+Info 148  [21:11:54.504] getCompletionData: Is inside comment: 0.004471000051125884
+Info 149  [21:11:54.504] getCompletionData: Get previous token: 0.027190000051632524
+Info 150  [21:11:54.504] getCompletionsAtPosition: isCompletionListBlocker: 0.006995000061579049
+Info 151  [21:11:54.504] Returning an empty list because completion was requested in an invalid position.
+Info 152  [21:11:54.505] getCompletionData: Get current token: 0.015098000061698258
+Info 153  [21:11:54.505] getCompletionData: Is inside comment: 0.002726999926380813
+Info 154  [21:11:54.505] getCompletionData: Get previous token: 0.02500200003851205
+Info 155  [21:11:54.505] getCompletionsAtPosition: isCompletionListBlocker: 0.00642399990465492
+Info 156  [21:11:54.505] Returning an empty list because completion was requested in an invalid position.
+Info 157  [21:11:54.505] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 158  [21:11:54.513] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 24 structureChanged: false structureIsReused:: Completely Elapsed: 8.570547999930568ms
+Info 159  [21:11:54.513] Different program with same set of files
+Info 160  [21:11:55.004] Format host information updated
+Info 161  [21:15:52.872] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 162  [21:15:52.934] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 25 structureChanged: false structureIsReused:: Completely Elapsed: 61.995801999932155ms
+Info 163  [21:15:52.934] Different program with same set of files
+Info 164  [21:15:53.313] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 165  [21:15:53.321] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 26 structureChanged: false structureIsReused:: Completely Elapsed: 8.069168000016361ms
+Info 166  [21:15:53.321] Different program with same set of files
+Info 167  [21:15:53.581] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 168  [21:15:53.591] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 27 structureChanged: false structureIsReused:: Completely Elapsed: 9.420085999998264ms
+Info 169  [21:15:53.591] Different program with same set of files
+Info 170  [21:15:54.103] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 171  [21:15:54.121] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 28 structureChanged: false structureIsReused:: Completely Elapsed: 18.554467999958433ms
+Info 172  [21:15:54.121] Different program with same set of files
+Info 173  [21:15:54.499] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 174  [21:15:54.507] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 29 structureChanged: false structureIsReused:: Completely Elapsed: 7.677415999933146ms
+Info 175  [21:15:54.507] Different program with same set of files
+Info 176  [21:15:54.507] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 177  [21:15:54.517] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 30 structureChanged: false structureIsReused:: Completely Elapsed: 10.356370999943465ms
+Info 178  [21:15:54.517] Different program with same set of files
+Info 179  [21:15:56.697] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 180  [21:15:56.728] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 31 structureChanged: false structureIsReused:: Completely Elapsed: 31.51719799998682ms
+Info 181  [21:15:56.728] Different program with same set of files
+Info 182  [21:15:56.887] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 183  [21:15:56.914] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 32 structureChanged: false structureIsReused:: Completely Elapsed: 26.503398000029847ms
+Info 184  [21:15:56.914] Different program with same set of files
+Info 185  [21:15:57.070] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 186  [21:15:57.099] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 33 structureChanged: false structureIsReused:: Completely Elapsed: 28.846139000030234ms
+Info 187  [21:15:57.099] Different program with same set of files
+Info 188  [21:15:57.316] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 189  [21:15:57.326] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 34 structureChanged: false structureIsReused:: Completely Elapsed: 9.96873200009577ms
+Info 190  [21:15:57.326] Different program with same set of files
+Info 191  [21:15:57.818] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 192  [21:15:57.824] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 35 structureChanged: false structureIsReused:: Completely Elapsed: 6.800465999986045ms
+Info 193  [21:15:57.825] Different program with same set of files
+Info 194  [21:15:58.059] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 195  [21:15:58.066] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 36 structureChanged: false structureIsReused:: Completely Elapsed: 7.3383589999284595ms
+Info 196  [21:15:58.066] Different program with same set of files
+Info 197  [21:15:58.283] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 198  [21:15:58.316] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 37 structureChanged: false structureIsReused:: Completely Elapsed: 33.181038999930024ms
+Info 199  [21:15:58.316] Different program with same set of files
+Info 200  [21:15:58.408] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 201  [21:15:58.426] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 38 structureChanged: false structureIsReused:: Completely Elapsed: 17.517473999992944ms
+Info 202  [21:15:58.426] Different program with same set of files
+Info 203  [21:15:58.489] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 204  [21:15:58.498] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 39 structureChanged: false structureIsReused:: Completely Elapsed: 8.426203000009991ms
+Info 205  [21:15:58.498] Different program with same set of files
+Info 206  [21:15:59.001] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 207  [21:15:59.009] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 40 structureChanged: false structureIsReused:: Completely Elapsed: 7.733780000009574ms
+Info 208  [21:15:59.009] Different program with same set of files
+Info 209  [21:15:59.010] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 210  [21:15:59.017] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 41 structureChanged: false structureIsReused:: Completely Elapsed: 7.1491669999668375ms
+Info 211  [21:15:59.017] Different program with same set of files
+Info 212  [21:15:59.250] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 213  [21:15:59.256] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 42 structureChanged: false structureIsReused:: Completely Elapsed: 6.568959000054747ms
+Info 214  [21:15:59.256] Different program with same set of files
+Info 215  [21:15:59.664] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 216  [21:15:59.674] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 43 structureChanged: false structureIsReused:: Completely Elapsed: 9.54975500004366ms
+Info 217  [21:15:59.674] Different program with same set of files
+Info 218  [21:15:59.674] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 219  [21:15:59.681] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 44 structureChanged: false structureIsReused:: Completely Elapsed: 6.813143000006676ms
+Info 220  [21:15:59.681] Different program with same set of files
+Info 221  [21:15:59.918] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 222  [21:15:59.929] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 45 structureChanged: false structureIsReused:: Completely Elapsed: 11.070460999966599ms
+Info 223  [21:15:59.929] Different program with same set of files
+Info 224  [21:15:59.986] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 225  [21:16:00.001] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 46 structureChanged: false structureIsReused:: Completely Elapsed: 14.980451000039466ms
+Info 226  [21:16:00.001] Different program with same set of files
+Info 227  [21:16:00.058] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 228  [21:16:00.073] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 47 structureChanged: false structureIsReused:: Completely Elapsed: 15.084618999972008ms
+Info 229  [21:16:00.073] Different program with same set of files
+Info 230  [21:16:00.162] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 231  [21:16:00.171] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 48 structureChanged: false structureIsReused:: Completely Elapsed: 9.105557000031695ms
+Info 232  [21:16:00.171] Different program with same set of files
+Info 233  [21:16:00.259] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 234  [21:16:00.285] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 49 structureChanged: false structureIsReused:: Completely Elapsed: 25.90698800003156ms
+Info 235  [21:16:00.285] Different program with same set of files
+Info 236  [21:16:00.450] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 237  [21:16:00.479] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 50 structureChanged: false structureIsReused:: Completely Elapsed: 28.863530000089668ms
+Info 238  [21:16:00.479] Different program with same set of files
+Info 239  [21:16:00.637] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 240  [21:16:00.667] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 51 structureChanged: false structureIsReused:: Completely Elapsed: 29.97776000003796ms
+Info 241  [21:16:00.667] Different program with same set of files
+Info 242  [21:16:00.859] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 243  [21:16:00.885] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 52 structureChanged: false structureIsReused:: Completely Elapsed: 25.869754999992438ms
+Info 244  [21:16:00.885] Different program with same set of files
+Info 245  [21:16:01.137] getCompletionData: Get current token: 0.019244999974034727
+Info 246  [21:16:01.137] getCompletionData: Is inside comment: 0.0037449999945238233
+Info 247  [21:16:01.137] getCompletionData: Get previous token: 0.034392000059597194
+Info 248  [21:16:01.138] getCompletionsAtPosition: isCompletionListBlocker: 0.014374000020325184
+Info 249  [21:16:01.138] Returning an empty list because completion was requested in an invalid position.
+Info 250  [21:16:01.388] getCompletionData: Get current token: 0.01646100007928908
+Info 251  [21:16:01.388] getCompletionData: Is inside comment: 0.0029739999445155263
+Info 252  [21:16:01.388] getCompletionData: Get previous token: 0.026640000054612756
+Info 253  [21:16:01.389] getCompletionsAtPosition: isCompletionListBlocker: 0.012059999979101121
+Info 254  [21:16:01.389] Returning an empty list because completion was requested in an invalid position.
+Info 255  [21:16:01.394] getCompletionData: Get current token: 0.014912000042386353
+Info 256  [21:16:01.394] getCompletionData: Is inside comment: 0.003080999944359064
+Info 257  [21:16:01.394] getCompletionData: Get previous token: 0.02758300001733005
+Info 258  [21:16:01.394] getCompletionsAtPosition: isCompletionListBlocker: 0.009624000056646764
+Info 259  [21:16:01.394] Returning an empty list because completion was requested in an invalid position.
+Info 260  [21:16:01.395] getCompletionData: Get current token: 0.014424999943003058
+Info 261  [21:16:01.395] getCompletionData: Is inside comment: 0.002776999957859516
+Info 262  [21:16:01.395] getCompletionData: Get previous token: 0.02502599998842925
+Info 263  [21:16:01.395] getCompletionsAtPosition: isCompletionListBlocker: 0.011697000009007752
+Info 264  [21:16:01.395] Returning an empty list because completion was requested in an invalid position.
+Info 265  [21:16:01.395] getCompletionData: Get current token: 0.014235000009648502
+Info 266  [21:16:01.395] getCompletionData: Is inside comment: 0.002440999960526824
+Info 267  [21:16:01.395] getCompletionData: Get previous token: 0.02441700000781566
+Info 268  [21:16:01.395] getCompletionsAtPosition: isCompletionListBlocker: 0.00794600008521229
+Info 269  [21:16:01.395] Returning an empty list because completion was requested in an invalid position.
+Info 270  [21:16:01.439] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 271  [21:16:01.448] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 53 structureChanged: false structureIsReused:: Completely Elapsed: 8.583273999975063ms
+Info 272  [21:16:01.448] Different program with same set of files
+Info 273  [21:16:02.054] Format host information updated
+Info 274  [21:16:02.321] Starting updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json
+Info 275  [21:16:02.348] Finishing updateGraphWorker: Project: /home/nicholas/programs/roberta-names-gender/tsconfig.json Version: 54 structureChanged: false structureIsReused:: Completely Elapsed: 26.645116000087ms
+Info 276  [21:16:02.348] Different program with same set of files

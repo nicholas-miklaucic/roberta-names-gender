@@ -1,0 +1,55 @@
+[00:33:14.930] Global cache location '/home/nicholas/.cache/typescript/4.6', safe file path '/home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/typingSafeList.json', types map path /home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/typesMap.json
+[00:33:14.931] Processing cache location '/home/nicholas/.cache/typescript/4.6'
+[00:33:14.931] Trying to find '/home/nicholas/.cache/typescript/4.6/package.json'...
+[00:33:14.945] Loaded content of '/home/nicholas/.cache/typescript/4.6/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.605"},"devDependencies":{"@types/brace-expansion":"^1.1.0","@types/enzyme":"^3.10.12","@types/eslint":"^8.4.5","@types/eslint-config-prettier":"^6.11.0","@types/eslint-plugin-prettier":"^3.1.0","@types/extend":"^3.0.1","@types/glob":"^7.2.0","@types/inherits":"^0.0.30","@types/iniparser":"^0.0.29","@types/katex":"^0.14.0","@types/minimatch":"^3.0.5","@types/once":"^1.4.0","@types/path-is-absolute":"^1.0.0","@types/plotly.js":"^2.12.2","@types/prettier":"^2.7.0","@types/querystringify":"^2.0.0","@types/react":"^18.0.17","@types/react-dom":"^18.0.6","@types/react-is":"^17.0.3","@types/react-plotly.js":"^2.5.1","@types/requires-port":"^1.0.0","@types/tabbable":"^3.1.2","@types/testing-library__jest-dom":"^5.14.5","@types/trim":"^0.1.1","@types/url-parse":"^1.4.8","@types/uuid":"^8.3.4","@types/webpack":"^5.28.0","@types/webpack-bundle-analyzer":"^4.4.1"}}
+[00:33:14.945] Loaded content of '/home/nicholas/.cache/typescript/4.6/package-lock.json'
+[00:33:14.957] Adding entry into typings cache: 'brace-expansion' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/brace-expansion/index.d.ts'
+[00:33:14.961] Adding entry into typings cache: 'enzyme' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/enzyme/index.d.ts'
+[00:33:14.963] Adding entry into typings cache: 'eslint' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/eslint/index.d.ts'
+[00:33:14.964] Adding entry into typings cache: 'eslint-config-prettier' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/eslint-config-prettier/index.d.ts'
+[00:33:14.966] Adding entry into typings cache: 'eslint-plugin-prettier' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/eslint-plugin-prettier/index.d.ts'
+[00:33:14.967] Adding entry into typings cache: 'extend' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/extend/index.d.ts'
+[00:33:14.968] Adding entry into typings cache: 'glob' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/glob/index.d.ts'
+[00:33:14.970] Adding entry into typings cache: 'inherits' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/inherits/index.d.ts'
+[00:33:14.971] Adding entry into typings cache: 'iniparser' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/iniparser/index.d.ts'
+[00:33:14.972] Adding entry into typings cache: 'katex' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/katex/index.d.ts'
+[00:33:14.974] Adding entry into typings cache: 'minimatch' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/minimatch/index.d.ts'
+[00:33:14.975] Adding entry into typings cache: 'once' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/once/index.d.ts'
+[00:33:14.976] Adding entry into typings cache: 'path-is-absolute' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/path-is-absolute/index.d.ts'
+[00:33:14.980] Adding entry into typings cache: 'plotly.js' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/plotly.js/index.d.ts'
+[00:33:14.981] Adding entry into typings cache: 'prettier' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/prettier/index.d.ts'
+[00:33:14.982] Adding entry into typings cache: 'querystringify' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/querystringify/index.d.ts'
+[00:33:14.985] Adding entry into typings cache: 'react' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/react/index.d.ts'
+[00:33:14.986] Adding entry into typings cache: 'react-dom' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/react-dom/index.d.ts'
+[00:33:14.988] Adding entry into typings cache: 'react-is' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/react-is/index.d.ts'
+[00:33:14.989] Adding entry into typings cache: 'react-plotly.js' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/react-plotly.js/index.d.ts'
+[00:33:14.990] Adding entry into typings cache: 'requires-port' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/requires-port/index.d.ts'
+[00:33:14.991] Adding entry into typings cache: 'tabbable' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/tabbable/index.d.ts'
+[00:33:14.992] Adding entry into typings cache: 'testing-library__jest-dom' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/testing-library__jest-dom/index.d.ts'
+[00:33:14.993] Adding entry into typings cache: 'trim' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/trim/index.d.ts'
+[00:33:14.994] Adding entry into typings cache: 'url-parse' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/url-parse/index.d.ts'
+[00:33:14.995] Adding entry into typings cache: 'uuid' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/uuid/index.d.ts'
+[00:33:15.003] Adding entry into typings cache: 'webpack' => '/home/nicholas/.cache/typescript/4.6/node_modules/webpack/types.d.ts'
+[00:33:15.005] Adding entry into typings cache: 'webpack-bundle-analyzer' => '/home/nicholas/.cache/typescript/4.6/node_modules/@types/webpack-bundle-analyzer/index.d.ts'
+[00:33:15.005] Finished processing cache location '/home/nicholas/.cache/typescript/4.6'
+[00:33:15.005] Process id: 3874552
+[00:33:15.005] NPM location: /usr/bin/npm (explicit '--npmLocation' not  provided)
+[00:33:15.005] validateDefaultNpmLocation: false
+[00:33:15.005] Npm config file: /home/nicholas/.cache/typescript/4.6/package.json
+[00:33:15.005] Updating types-registry npm package...
+[00:33:15.005] Exec: /usr/bin/npm install --ignore-scripts types-registry@latest
+[00:33:16.234]     Succeeded. stdout:
+    
+    changed 1 package, and audited 153 packages in 862ms
+
+12 packages are looking for funding
+  run `npm fund` for details
+
+1 high severity vulnerability
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+
+[00:33:16.234] Updated types-registry npm package

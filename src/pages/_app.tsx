@@ -17,20 +17,20 @@ import { globalStyes } from '../styles/global.styles';
  * @see https://nextjs.org/docs/advanced-features/custom-app
  */
 const EuiApp: FunctionComponent<AppProps> = ({ Component, pageProps }) => (
-  <>
-    <Head>
-      {/* You can override this in other pages - see index.tsx for an example */}
-      <title>Next.js EUI Starter</title>
-    </Head>
-    <Global styles={globalStyes} />
-    <Theme>
-      <Chrome>
-        <EuiErrorBoundary>
-          <Component {...pageProps} />
-        </EuiErrorBoundary>
-      </Chrome>
-    </Theme>
-  </>
+    <>
+        <Head>
+            {/* You can override this in other pages - see index.tsx for an example */}
+            <title>What's In a Name?</title>
+        </Head>
+        <Global styles={globalStyes} />
+        <Theme>
+            <Chrome>
+                <EuiErrorBoundary>
+                    <Component {...pageProps} />
+                </EuiErrorBoundary>
+            </Chrome>
+        </Theme>
+    </>
 );
 
 export default EuiApp;

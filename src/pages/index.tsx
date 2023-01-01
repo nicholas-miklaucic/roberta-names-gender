@@ -21,9 +21,6 @@ function Index({ data, years }) {
     const [currName, setCurrName] = React.useState('');
     return (
         <>
-            <Head>
-                <title>What's In a Name?</title>
-            </Head>
             <EuiPageTemplate panelled css={css`
                 height: 100vh;
             `}>

@@ -53,3 +53,19 @@ To address all issues, run:
 Run `npm audit` for details.
 
 [21:04:12.235] Updated types-registry npm package
+[22:02:40.084] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":[],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/nicholas/programs/roberta-names-gender/pages","kind":"discover"}
+[22:02:40.111] Loaded safelist from types map file '/home/nicholas/programs/roberta-names-gender/node_modules/typescript/lib/typesMap.json'
+[22:02:40.112] Explicitly included types: []
+[22:02:40.113] Inferred typings from unresolved imports: []
+[22:02:40.114] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/nicholas/programs/roberta-names-gender/pages/bower_components","/home/nicholas/programs/roberta-names-gender/pages/node_modules"]}
+[22:02:40.114] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/nicholas/programs/roberta-names-gender/pages/bower_components","/home/nicholas/programs/roberta-names-gender/pages/node_modules"]}
+[22:02:40.115] DirectoryWatcher:: Added:: WatchInfo: /home/nicholas/programs/roberta-names-gender/pages/bower_components
+[22:02:40.117] DirectoryWatcher:: Added:: WatchInfo: /home/nicholas/programs/roberta-names-gender/pages/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[22:02:40.122] Elapsed:: 5.401103000156581ms DirectoryWatcher:: Added:: WatchInfo: /home/nicholas/programs/roberta-names-gender/pages/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[22:02:40.123] DirectoryWatcher:: Added:: WatchInfo: /home/nicholas/programs/roberta-names-gender/pages/node_modules
+[22:02:40.123] DirectoryWatcher:: Added:: WatchInfo: /home/nicholas/programs/roberta-names-gender/pages/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[22:02:40.123] Elapsed:: 0.3334789997898042ms DirectoryWatcher:: Added:: WatchInfo: /home/nicholas/programs/roberta-names-gender/pages/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[22:02:40.124] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[22:02:40.125] Response has been sent.
+[22:02:40.125] No new typings were requested as a result of typings discovery
